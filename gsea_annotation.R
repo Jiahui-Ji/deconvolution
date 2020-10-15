@@ -139,7 +139,7 @@ ControlSample1.data.B$gbm_subtype=celltype
 pdf('gbm_subtype_v3.pdf')
 DimPlot(ControlSample1.data.B, reduction = "umap",group.by="gbm_subtype",cols=c("DarkOrange","CornflowerBlue","LightCoral","SeaGreen","DarkOrchid","Gainsboro"))
 dev.off()
-
+#######done!
 
 
 #0000FF00
