@@ -45,11 +45,6 @@ marker$mig=mig
 
 
 
-ssh jj1419@login.hpc.ic.ac.uk
-/rds/general/user/jj1419/ephemeral/preprocessing/gsea_annotation
-
-ssh jj1419@brc-cancer.med.ic.ac.uk
-jj1419@brc-cancer.med.ic.ac.uk:/data/jj1419/gbm/GBM_data_and_metadata
 
 
 
